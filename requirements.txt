@@ -1,0 +1,5 @@
+flask
+flask-appconfig
+requests
+lxml
+python-dateutil
